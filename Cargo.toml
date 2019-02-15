@@ -15,7 +15,7 @@ env_logger = "0.6"
 
 [dependencies]
 lazy_static = "1.2"
-pagetable = { version = "0.1", path = "../pagetable" }
+pagetable = "0.1"
 crossbeam-epoch = "0.6.1"
 log = "0.4.6"
 crossbeam = "0.3.2"
